@@ -10,17 +10,17 @@ Student Name: Eugene Wang
 1. Introduction to the topic
 2. History and Real-World Motivations
 3. Overview of the technology
-   * Main Principles of Text-to-Speech Synthesis System (Link: https://publications.waset.org/8303/pdf )
+   * Main Principles of Text-to-Speech Synthesis System [Link](https://publications.waset.org/8303/pdf )
 4. Example 1: Google’s WaveNet for Voice Synthesis
-   * WaveNet: A Generative Model for Raw Audio (Link: https://arxiv.org/abs/1609.03499 )
+   * WaveNet: A Generative Model for Raw Audio [Link](https://arxiv.org/abs/1609.03499 )
 5. Application of Example 1: Utilizing WaveNet to clone anyone’s voice
-   * Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis (Link: https://arxiv.org/abs/1806.04558) 
+   * Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis [Link](https://arxiv.org/abs/1806.04558) 
 6. Discussion of Example 1: Implications of ability to clone anyone’s voice
-   * https://www.forbes.com/sites/bernardmarr/2019/05/06/artificial-intelligence-can-now-copy-your-voice-what-does-that-mean-for-humans/#6cbb296e72a2
+   * "Artificial Intelligence Can Now Copy Your Voice: What Does That Mean For Humans?" [Link](https://www.forbes.com/sites/bernardmarr/2019/05/06/artificial-intelligence-can-now-copy-your-voice-what-does-that-mean-for-humans/#6cbb296e72a2)
 7. Example 2: “Neural Text to Speech” TTS by Neural Network: Mixture Density Network
-   * Deep Voice: Real-time Neural Text-to-Speech (Link: https://arxiv.org/abs/1702.07825 )
+   * Deep Voice: Real-time Neural Text-to-Speech [Link](https://arxiv.org/abs/1702.07825 )
 8. Application and Discussion of Example 2: How Apple made Siri Sound more natural in iOS 13
-   * Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis (Link: https://machinelearning.apple.com/research/siri-voices )
+   * Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis [Link](https://machinelearning.apple.com/research/siri-voices )
 ## Resource and Dataset for Demonstrations:
 * Audio samples from "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis [Link](https://google.github.io/tacotron/publications/speaker_adaptation/)
 * Apple Developer - Documentation: Speech Synthesis [Link](https://developer.apple.com/documentation/avfoundation/speech_synthesis)
