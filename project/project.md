@@ -1,10 +1,29 @@
 # Review of Text-to-Voice Synthesis Technologies
 
 - [ ] Please use the template
+- [ ] use numbered sections. 
+- [ ] This shoudl no longer be a proposal
+- [ ] what is prohgress?
 
-Eugene Wang
+Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/master/project/project.md)
 
--	Project Type: Review paper + Examples in software
+
+{{% pageinfo %}}
+
+## Abstract
+
+Missing
+
+Contents
+
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
+
+**Keywords:** missing
+
+
+
 
 ## Project Proposal
 
