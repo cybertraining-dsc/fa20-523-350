@@ -10,8 +10,6 @@ Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/),
 
 {{% pageinfo %}}
 
-## Abstract
-
 Contents
 
 1. Introduction (History and Real-World Motivations)
@@ -26,6 +24,9 @@ Contents
    * Deep Voice: Real-time Neural Text-to-Speech [Link](https://arxiv.org/abs/1702.07825)
 7. Application and Discussion of Example 2: How Apple made Siri Sound more natural in iOS 13
    * Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis [Link](https://machinelearning.apple.com/research/siri-voices )
+
+## Abstract
+<p>The paper is about the most popular and most successful voice synthesis methods in the recent 5 years. Area of examples that would be explored in order to produce such a review paper would consist of both academic research papers and examples real world successful applications. For each specific example examined, its dataset, theory/model, training algorithms, and the purpose and use for that specific method/technology would be examined and reviewed. Overall, I will compare the similarities and differences between these methods and explore how big data enabled these new voice-synthesis technologies. And last, the changes these technologies will bring to our world in the future is discussed and both positive and negatives implications are explored in depth. This paper is meant to be informative to the both general audience and professionals about the how voice-synthesizing techniques has been transformed by big data, most important developments in the academic research of this field, and how these technologies are adopted to create innovation and value. But also to explain the logic and other technicalities behind these algorithms created by academia and applied to real world purposes. Codes and datasets of voices will be supplemented as for the purpose of demonstrations of these technologies in working. </p>
 
 **Keywords:** Text-to-Speech Synthesis, Speech Synthesis, Artificial Voice
 
@@ -54,5 +55,5 @@ Contents
 
 ## Initial Project Proposal
 <p>Change of project format from report w/ code to report w/o code. Reason: I've decided to do a report instead of a project for the same topic, because I don't have the computing power to recreate let alone change the training process of the large neural networks technologies I've chosed to write about.</p>
-<p>I plan to study about the most popular and most successful voice synthesis methods in the recent 5-10 years. Area of examples that would be explored in order to produce such a review paper would consist of both academic research papers and real world successful applications. For each specific example examined, I will focus my main points on the dataset, theory/model, training algorithms, and the purpose and use for that specific technique/technology. Overall, I will compare the similarities and differences between these examples and explore how voice-synthesis technology has evolved in the big data revolution. And last, the changes these technologies will bring to our world in the future will be discussed by presenting both the positive and negatives implications. The first and main goal (80%) of this paper is to be informative to the both general audience and professionals about the how voice-synthesizing techniques has been transformed by big data, most important developments in the academic research of this field, and how these technologies are adopted to create innovation and value. The second and smaller goal (20%) of this paper is to explain the logic and other technicalities behind these algorithms created by academia and applied to real world purposes. Codes and datasets of voices will be supplemented as for the purpose of demonstrations of these technologies in working. To get a good grade I need to be achieve the stated main goal and second goal. The main goal requires me to find, read, and understand relevant papers and articles pertaining to topic and the second goal requires be to acquire enough technical knowledge to be able to produce a working example code to showcase the technology discussed.</p>
+
 
