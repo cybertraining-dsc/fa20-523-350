@@ -1,9 +1,8 @@
-# please use proper markdown 
-
-- [V] this document does not follow clear guidlines posted for this work
-- [V] citations can not be after a period they must be before
-
 # Review of Text-to-Voice Synthesis Technologies
+
+- [ ] please use proper markdown 
+- [ ] this document does not follow clear guidlines posted for this work
+- [V] citations can not be after a period they must be before
 
 Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/master/project/project.md)
 
