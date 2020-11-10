@@ -1,5 +1,7 @@
 # Review of Text-to-Voice Synthesis Technologies
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
+
 - [ ] does not follow template, watch video
 - [ ] please use proper markdown 
 - [ ] this document does not follow clear guidlines posted for this work
