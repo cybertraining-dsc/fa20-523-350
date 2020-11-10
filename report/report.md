@@ -1,5 +1,6 @@
 # Review of Text-to-Voice Synthesis Technologies
 
+- [ ] does not follow template, watch video
 - [ ] please use proper markdown 
 - [ ] this document does not follow clear guidlines posted for this work
 - [V] citations can not be after a period they must be before
