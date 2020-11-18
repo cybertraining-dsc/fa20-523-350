@@ -1,12 +1,15 @@
 # Review of Text-to-Voice Synthesis Technologies
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
+Status: in progress
 
 - [ ] does not follow template, watch video
 - [ ] please use proper markdown 
 - [ ] this document does not follow clear guidlines posted for this work
 - [V] citations can not be after a period they must be before
-- [ ] Please remote the bulletins from the refereneces. Follow the template when adding references. 
+- [ ] Please remote the bulletins from the refereneces. Follow the template when adding references.
+- [ ] do not use html
 
 Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/master/project/project.md)
 
@@ -51,19 +54,19 @@ Contents
 <p>In this paper, one of the TTS system we’ll explore is known as Tacotron 2. Tacotron 2 is a TTS system built using neural network architecture for both its first and second component. Tacotron 2 combines the original tacotron’s first component and combine it with Google’s WaveNet that serves as the second component. The tacotron-style first component responsible for preprocessing and text-to-phenome, produces mel spectrograms given the original text input. Mel spectrograms are representations of frequencies in mel scale as it varies over different time. The mel spectrograms are then fed into WaveNet, a vocoder that serves as the second component, which outputs the final sound. </p>
 <p>The </p>
 
+## Initial Project Proposal
+
+<p>Change of project format from report w/ code to report w/o code. Reason: I've decided to do a report instead of a project for the same topic, because I don't have the computing power to recreate let alone change the training process of the large neural networks technologies I've chosed to write about.</p>
+
 ## References
 
 * [^1]: History and Development of Speech Synthesis [Link](http://research.spa.aalto.fi/publications/theses/lemmetty_mst/chap2.html)
 * [^2]: Computer Synthesized Speech Technologies: Tools for Aiding Impairment [Link](https://books.google.com/books?id=ZISTvI4vVPsC&pg=PA11&lpg=PA11&dq=bell+labs+Carol+Lockbaum&hl=en#v=onepage&q=bell%20labs%20Carol%20Lockbaum&f=false)
 * [^3]: Unit Selection in a Concatenative Speech Synthesis System Using a Large Speech Database [Link](https://www.ee.columbia.edu/~dpwe/e6820/papers/HuntB96-speechsynth.pdf)
 * [^4]: Statistical Parametric Speech Synthesis [Link](https://www.cs.cmu.edu/~pmuthuku/mlsp_page/lectures/spss_specom.pdf)
-* [^]:  [Link]()
 
 
 
 
-## Initial Project Proposal
-
-<p>Change of project format from report w/ code to report w/o code. Reason: I've decided to do a report instead of a project for the same topic, because I don't have the computing power to recreate let alone change the training process of the large neural networks technologies I've chosed to write about.</p>
 
 
