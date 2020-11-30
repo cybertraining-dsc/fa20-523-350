@@ -42,7 +42,7 @@ Contents
 
 **Keywords:** Text-to-Speech Synthesis, Speech Synthesis, Artificial Voice
 
-## 1. Introduction (History and Real-World Motivations)
+## Introduction (History and Real-World Motivations)
 
 <p>The idea of making machines talk has be around for many over 200 years. For example, in as early as 1779, a scientist called Christian Gottlieb Kratzenstein built models of the human vocal tract (the cavity in human beings where voice is produced in) that can produce the sound of long vowels (a, e, i , o, u)[^1]. From then till the 1950s, there have been many successful studies and attempts to make physical models that mechanically imitate the human voice. In the late 1960s, the people trying to synthesize human voice started to do it electronically. In 1961, by utilizing the IBM 704 (one of the first mass produced computers), John Larry Kelly Jr and Louis Gerstman, made a voice recorder synthesizer (aka. vocoder). Their system was able to recreate the song “Daisy Bell”[^2]. Before the current deep neural network trend, modern systems for text-to-Speech (TTS) or speech synthesis has been dominated by concatenative methods and then statistical parametric methods. </p>
 
@@ -57,7 +57,17 @@ Contents
 <p>In this paper, one of the TTS system we’ll explore is known as Tacotron 2. Tacotron 2 is a TTS system built using neural network architecture for both its first and second component. Tacotron 2 combines the original tacotron’s first component and combine it with Google’s WaveNet that serves as the second component. The tacotron-style first component responsible for preprocessing and text-to-phenome, produces mel spectrograms given the original text input. Mel spectrograms are representations of frequencies in mel scale as it varies over different time. The mel spectrograms are then fed into WaveNet, a vocoder that serves as the second component, which outputs the final sound. </p>
 <p>The </p>
 
-## Initial Project Proposal
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-305/main/project/raw/filename.png)
+
+**Figure 1:** figurename
+
+## Application of Example 1: Utilizing WaveNet to clone anyone’s voice
+## Discussion of Example 1: Implications of ability to clone anyone’s voice
+## Example 2: “Neural Text to Speech” TTS by Neural Network: Mixture Density Network
+## Application and Discussion of Example 2: How Apple made Siri Sound more natural in iOS 13
+## Conclusion
+
+## Initial Report Proposal
 
 <p>Change of project format from report w/ code to report w/o code. Reason: I've decided to do a report instead of a project for the same topic, because I don't have the computing power to recreate let alone change the training process of the large neural networks technologies I've chosed to write about.</p>
 
