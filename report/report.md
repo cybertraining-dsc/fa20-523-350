@@ -26,17 +26,6 @@ Contents
 
 {{% /pageinfo %}}
 
-1. Introduction (History and Real-World Motivations)
-2. Overview of the technology
-3. Example 1: Tacotron 2 and Google’s WaveNet for Voice Synthesis
-
-4. Application of Example 1: Utilizing WaveNet to clone anyone’s voice
-5. Discussion of Example 1: Implications of ability to clone anyone’s voice
-6. Example 2: “Neural Text to Speech” TTS by Neural Network: Mixture Density Network
-7. Application and Discussion of Example 2: How Apple made Siri Sound more natural in iOS 13
-   * Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis [Link](https://machinelearning.apple.com/research/siri-voices )
-
-
 **Keywords:** Text-to-Speech Synthesis, Speech Synthesis, Artificial Voice
 
 ## 1. Introduction (History and Real-World Motivations)
@@ -76,19 +65,16 @@ Utilizing WaveNet to clone anyone’s voice
 ## 7. Conclusion
 
 
+## 8. References
+
+[^1]: J. Ohala, “Christian Gottlieb Kratzenstein: Pioneer in Speech Synthesis”, ICPhS. (2011) [Link](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2011/OnlineProceedings/SpecialSession/Session7/Ohala/Ohala.pdf)
+[^2]: J. Mullennix and S. Stern, "Synthesized Speech Technologies: Tools for Aiding Impairment", University of Pittsburh at Johnsonstown (2010) [Link](https://books.google.com/books?id=ZISTvI4vVPsC&pg=PA11&lpg=PA11&dq=bell+labs+Carol+Lockbaum&hl=en#v=onepage&q=bell%20labs%20Carol%20Lockbaum&f=false)
+[^3]: A. Hunt and A. W. Black, "Unit Selection in a Concatenative Speech Synthesis System Using a Large Speech Database", ATR Interpreting Telecommunications Research Labs. (1996) [Link](https://www.ee.columbia.edu/~dpwe/e6820/papers/HuntB96-speechsynth.pdf)
+[^4]: A. W. Black, H. Zen and K. Tokuda, "Statistical Parametric Speech Synthesis", Language Technologies Institute, Carnegie Mellon University (2009) [Link](https://doi.org/10.1016/j.specom.2009.04.004)
 
 ## Initial Report Proposal
 
 <p>Change of project format from report w/ code to report w/o code. Reason: I've decided to do a report instead of a project for the same topic, because I don't have the computing power to recreate let alone change the training process of the large neural networks technologies I've chosed to write about.</p>
-
-## References
-
-* [^1]: J. Ohala, “Christian Gottlieb Kratzenstein: Pioneer in Speech Synthesis.” ICPhS. (2011) [Link](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2011/OnlineProceedings/SpecialSession/Session7/Ohala/Ohala.pdf)
-* [^2]: J. Mullennix and S. Stern, "Synthesized Speech Technologies: Tools for Aiding Impairment" (2010) University of Pittsburh at Johnsonstown. [Link](https://books.google.com/books?id=ZISTvI4vVPsC&pg=PA11&lpg=PA11&dq=bell+labs+Carol+Lockbaum&hl=en#v=onepage&q=bell%20labs%20Carol%20Lockbaum&f=false)
-* [^3]: A. Hunt and A. W. Black, "Unit Selection in a Concatenative Speech Synthesis System Using a Large Speech Database" ATR Interpreting Telecommunications Research Labs. (1996) [Link](https://www.ee.columbia.edu/~dpwe/e6820/papers/HuntB96-speechsynth.pdf)
-* [^4]: A. W. Black, H. Zen and K. Tokuda, "Statistical Parametric Speech Synthesis" Language Technologies Institute, Carnegie Mellon University (2009) [Link](https://doi.org/10.1016/j.specom.2009.04.004)
-
-
 
 
 
