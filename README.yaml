@@ -7,6 +7,6 @@ owner:
   semester: "fa20"
 project:
   title: Review of Text-to-Voice Synthesis Technologies
-  url: TBD
+  url: https://github.com/cybertraining-dsc/fa20-523-350/blob/main/report/report.md
   author:
-    - fa20-523-350
+    - Eugene Wang, fa20-523-350
