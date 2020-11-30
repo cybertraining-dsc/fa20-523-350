@@ -22,6 +22,10 @@ Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/),
 
 Contents
 
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
+
 1. Introduction (History and Real-World Motivations)
 2. Overview of the technology
 3. Example 1: Tacotron 2 and Google’s WaveNet for Voice Synthesis
