@@ -4,11 +4,11 @@
 [![Status](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
 Status: in progress
 
-- [ ] does not follow template, watch video
-- [ ] please use proper markdown 
-- [ ] this document does not follow clear guidlines posted for this work
+- [V] does not follow template, watch video
+- [V] please use proper markdown 
+- [V] this document does not follow clear guidlines posted for this work
 - [V] citations can not be after a period they must be before
-- [ ] Please remote the bulletins from the refereneces. Follow the template when adding references.
+- [V] Please remote the bulletins from the refereneces. Follow the template when adding references.
 - [V] do not use html
 
 Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/master/project/project.md)
