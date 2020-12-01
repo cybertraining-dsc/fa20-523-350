@@ -4,14 +4,15 @@
 [![Status](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
 Status: in progress
 
-- [V] does not follow template, watch video
-- [V] please use proper markdown 
-- [V] this document does not follow clear guidlines posted for this work
-- [V] citations can not be after a period they must be before
-- [V] Please remote the bulletins from the refereneces. Follow the template when adding references.
-- [V] do not use html
+- [ ] does not follow template, watch video
+- [ ] please use proper markdown 
+- [ ] this document does not follow clear guidlines posted for this work
+- [ ] citations can not be after a period they must be before
+- [ ] Please remote the bulletins from the refereneces. Follow the template when adding references.
+- [ ] do not use html
+- [ ] do not use contractions
 
-Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/master/project/project.md)
+Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/main/project/project.md)
 
 
 {{% pageinfo %}}
@@ -48,17 +49,21 @@ Contents
 
 * WaveNet: A Generative Model for Raw Audio [Link](https://arxiv.org/abs/1609.03499 )
 
-## 4. Application and Discussion of Example A: 
+## 4. Application and Discussion of Example A
+
 Utilizing WaveNet to clone anyone’s voice
+
 * Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis [Link](https://arxiv.org/abs/1806.04558) 
 * "Artificial Intelligence Can Now Copy Your Voice: What Does That Mean For Humans?" [Link](https://www.forbes.com/sites/bernardmarr/2019/05/06/artificial-intelligence-can-now-copy-your-voice-what-does-that-mean-for-humans/#6cbb296e72a2)
 
 
 ## 5. Example B: “Neural Text to Speech” TTS by Neural Network: Mixture Density Network
+
 * Deep Voice: Real-time Neural Text-to-Speech [Link](https://arxiv.org/abs/1702.07825)
 
 
 ## 6. Application and Discussion of Example 2: How Apple made Siri Sound more natural in iOS 13
+
 * Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis (Link: https://machinelearning.apple.com/research/siri-voices )
 
 
