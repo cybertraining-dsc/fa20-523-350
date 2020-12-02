@@ -47,10 +47,9 @@ Contents
 <p> WaveNet is trained with audio recordings, or wave forms, from real human speech. After training the model, WaveNet can generate synthetic utterances of human speech that doesn’t actually mean anything. WaveNet would be fed a random audio sample point, and it will predict the next audio sample point and feed it back to itself and generating the next one, so on and so forth, producing complex realistic speech wave form. To apply WaveNet to TTS systems, it would have to be trained not only the human speech but also each training sample’s corresponding linguistic and phonetic features. This way, WaveNet would be conditioned on both the previous audio sample points and the words we want WaveNet to say. In a real working TTS system, these linguistic and phonetic features are the product of the first component, which is responsible for text-to-phenome. [^8] </p>
 
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-305/main/project/images/filename.png)
-**Figure 1:** figurename
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/wavenet.gif)
+**Figure 1:** Illustration of WaveNet's autoregressiveness [^9]
 
-* WaveNet: A Generative Model for Raw Audio [Link](https://arxiv.org/abs/1609.03499 )
 
 ## 4. Application and Discussion of Example A
 
@@ -91,7 +90,9 @@ Utilizing WaveNet to clone anyone’s voice
 
 [^8]: Oord, Aaron van den, et al. “WaveNet: a Generative Model for Raw Audio”, Deepmind (2016) Link: <https://arxiv.org/pdf/1609.03499.pdf>
 
+[^9]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) Link <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
 
+[^10]: 
 
 
 [Online]. Available: <
