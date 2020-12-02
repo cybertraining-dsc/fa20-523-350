@@ -33,6 +33,9 @@ Contents
 
 <p>The idea of making machines talk has be around for many over 200 years. For example, in as early as 1779, a scientist called Christian Gottlieb Kratzenstein built models of the human vocal tract (the cavity in human beings where voice is produced in) that can produce the sound of long vowels (a, e, i , o, u)[^1]. From then till the 1950s, there have been many successful studies and attempts to make physical models that mechanically imitate the human voice. In the late 1960s, the people trying to synthesize human voice started to do it electronically. In 1961, by utilizing the IBM 704 (one of the first mass produced computers), John Larry Kelly Jr and Louis Gerstman, made a voice recorder synthesizer (aka. vocoder). Their system was able to recreate the song “Daisy Bell”[^2]. Before the current deep neural network trend, modern systems for text-to-Speech (TTS) or speech synthesis has been dominated by concatenative methods and then statistical parametric methods. Creating the ability for humans to converse with computers or any machines is a one of those age-old dreams of humans. A human-computer interaction technology that provides the computers to comprehend raw human speech has been revolutionized in last couple of years by the amount of big data we have now and the implementation, mainly deep neural networks, that feeds on big data. </p>
 
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/TTScomponents.png)
+**Figure 1:** Illustration of a typical TTS system 
+
 ## 2. Overview of the Technology
 
 <p>Concatenative methods work by stringing together segments of prerecorded speech segments. The best of concatenative methods is the Unit Selection. The recorded voice segments in unit selection is categorized into individual phones, diphones, half-phones, morphemes, syllable, words, and phrases. Unit selection divides a sentence into segmented units by a speech recognizer, then these units are filled in with recorded voice segments based on parameters like frequency, duration, syllable position, as well as these parameters of its neighboring units [^3]. The output of this system can be undistinguishable from natural voice, but only in very specific context that it’s being tuned for and provided that the system has a very large database of speeches, usually in the range of dozens of hours of speech. This system suffers from boundary artifacts, which are unnatural connections between the sewed-together speech segments. </p>
@@ -47,8 +50,8 @@ Contents
 <p> WaveNet is trained with audio recordings, or wave forms, from real human speech. After training the model, WaveNet can generate synthetic utterances of human speech that doesn’t actually mean anything. WaveNet would be fed a random audio sample point, and it will predict the next audio sample point and feed it back to itself and generating the next one, so on and so forth, producing complex realistic speech wave form. To apply WaveNet to TTS systems, it would have to be trained not only the human speech but also each training sample’s corresponding linguistic and phonetic features. This way, WaveNet would be conditioned on both the previous audio sample points and the words we want WaveNet to say. In a real working TTS system, these linguistic and phonetic features are the product of the first component, which is responsible for text-to-phenome. [^8] </p>
 
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/wavenet.gif)
-**Figure 1:** Illustration of WaveNet's autoregression [^9]
+![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/wavenet.gif)
+**Figure 2:** Illustration of WaveNet's autoregression [^9]
 
 
 ## 4. Application and Discussion of Example A
@@ -90,12 +93,15 @@ Utilizing WaveNet to clone anyone’s voice
 
 [^8]: Oord, Aaron van den, et al. “WaveNet: a Generative Model for Raw Audio”, Deepmind (2016) Link: <https://arxiv.org/pdf/1609.03499.pdf>
 
-[^9]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) Link <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
+[^9]: 
 
-[^10]: 
+[Figure 1]: Andy0101, "Overview of a Typical TTS System", Wikipedia.com Link: <https://en.wikipedia.org/wiki/Speech_synthesis#/media/File:TTS_System.svg>
+
+[Figure 2]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) Link: <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
 
 
-[Online]. Available: <
+
+
 ## Initial Report Proposal
 
 <p>Change of project format from report w/ code to report w/o code. Reason: I've decided to do a report instead of a project for the same topic, because I don't have the computing power to recreate let alone change the training process of the large neural networks technologies I've chosed to write about.</p>
