@@ -48,7 +48,7 @@ Contents
 
 
 ![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/wavenet.gif)
-**Figure 1:** Illustration of WaveNet's autoregressiveness [^9]
+**Figure 1:** Illustration of WaveNet's autoregression [^9]
 
 
 ## 4. Application and Discussion of Example A
