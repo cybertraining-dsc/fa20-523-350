@@ -112,7 +112,9 @@ Demonstration of voice cloning from "Transfer Learning from Speaker Verification
 
 [^Figure1]: Andy0101, "Overview of a Typical TTS System", Wikipedia.com Link: <https://en.wikipedia.org/wiki/Speech_synthesis#/media/File:TTS_System.svg>
 
-[^Figure2]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) Link: <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
+[^Figure2]: "Course: Prosody", Arc Center of Excellence for The Dynamics of Language, Link: <http://www.dynamicsoflanguage.edu.au/storage/cache/news-prosody-w1160-q15-centre-of-excellence-for-the-dynamics-of-language-26b68.jpeg>
+
+[^Figure3]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) Link: <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
 
 
 
