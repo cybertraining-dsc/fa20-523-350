@@ -71,16 +71,15 @@ The powerful and lifelike TTS system by Tacotron 2 and Wavenet enhances many rea
 
 One possible benefit of such a system can provide is in speech to speech translation across different languages. Because the system only requires couple seconds of un-transcribed reference audio recorded from the target speaker, this system can be used to enhance current, top of the line, speech to speech translation system like Google Translate by generating the output speech that is in another language with the original speaker’s voice. This makes the generated speech more natural and realistic sounding for the intended listener of the translated speech in a real world setting [^9]. An example of a fun implementation of such a system is the option to choose celebrity’s voices, like John Legend’s voice, as the voice of your Google Assistant in your smart phone or your Google Home [^10]. But a different and potentially dangerous implication of a system being misused and abused is not hard to imagine as well, especially that sometimes the artificially synthesized speech by these latest TTS systems are rated as indistinguishable from real human speech [^8]. According to a study, our brain does not register significant differences between a morphed voice and a real voice [^11]. In other words, while we can still somewhat distinguish between a genuine and artificial voice, we probably will be fooled most of the time if we are not particularly paying attention and on the look out for it. For example, people can be fooled into believing or doing certain things, because the voice that they talked too belongs to someone who that trust or someone who they believe holds a certain type of authority. While there are people coming up with technical solutions to safeguard us, the first step is to raise awareness about the existence of this technology and how sophisticated it can be [^10].
 
-Demonstration of voice cloning from "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis" [Link](https://google.github.io/tacotron/publications/speaker_adaptation/)
 
 ## 5. Example B: “Neural Text to Speech” TTS by Neural Network: Mixture Density Network
 
-* Deep Voice: Real-time Neural Text-to-Speech [Link](https://arxiv.org/abs/1702.07825)
+
 
 
 ## 6. Application and Discussion of Example 2: How Apple made Siri Sound more natural in iOS 13
 
-* Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis (Link: https://machinelearning.apple.com/research/siri-voices )
+
 
 
 ## 7. Conclusion
@@ -109,6 +108,10 @@ Demonstration of voice cloning from "Transfer Learning from Speaker Verification
 [^10]: Marr, Bernard, "Artificial Intelligence Can Now Copy Your Voice: What Does That Mean For Humans?", Forbes, (2019)  <https://www.forbes.com/sites/bernardmarr/2019/05/06/artificial-intelligence-can-now-copy-your-voice-what-does-that-mean-for-humans/>
 
 [^11]: Neupane, Ajaya, et al. "The Crux of Voice (In)Security: A Brain Study of Speaker Legitimacy Detection", NDSS Symposium, (2019) <https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_08-3_Neupane_paper.pdf>
+
+[^12]: O. A. Sercan, et al. "Deep Voice: Real-time Neural Text-to-Speech", Baidu Silicon Valley Artificial Intelligence Lab, (2017) <https://arxiv.org/abs/1702.07825>
+
+[^13?]: Siri Team, "Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis", Apple Inc, (2017) <https://machinelearning.apple.com/research/siri-voices>
 
 [^Figure1]: Andy0101, "Overview of a Typical TTS System", Wikipedia <https://en.wikipedia.org/wiki/Speech_synthesis#/media/File:TTS_System.svg>
 
