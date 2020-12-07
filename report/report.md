@@ -34,6 +34,7 @@ Contents
 The idea of making machines talk has be around for many over 200 years. For example, in as early as 1779, a scientist called Christian Gottlieb Kratzenstein built models of the human vocal tract (the cavity in human beings where voice is produced in) that can produce the sound of long vowels (a, e, i , o, u)[^1]. From then till the 1950s, there have been many successful studies and attempts to make physical models that mechanically imitate the human voice. In the late 1960s, the people trying to synthesize human voice started to do it electronically. In 1961, by utilizing the IBM 704 (one of the first mass produced computers), John Larry Kelly Jr and Louis Gerstman, made a voice recorder synthesizer (aka. vocoder). Their system was able to recreate the song “Daisy Bell”[^2]. Before the current deep neural network trend, modern systems for text-to-Speech (TTS) or speech synthesis has been dominated by concatenative methods and then statistical parametric methods. Creating the ability for humans to converse with computers or any machines is a one of those age-old dreams of humans. A human-computer interaction technology that provides the computers to comprehend raw human speech has been revolutionized in last couple of years by the amount of big data we have now and the implementation, mainly deep neural networks, that feeds on big data. 
 
 ![Figure1](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/TTScomponents.png)
+
 **Figure 1:** Illustration of a typical TTS system 
 
 ## 2. Overview of the Technology
@@ -56,6 +57,7 @@ WaveNet is trained with audio recordings, or wave forms, from real human speech.
 
 
 ![Figure2](https://raw.githubusercontent.com/cybertraining-dsc/fa20-523-350/main/report/images/wavenet.gif)
+
 **Figure 2:** Illustration of WaveNet's autoregression [^9]
 
 
@@ -65,7 +67,7 @@ The powerful and lifelike TTS system by Tacotron 2 and Wavenet enhances many rea
 
 One possible benefit of such a system can provide is in speech to speech translation across different languages. Because the system only requires couple seconds of un-transcribed reference audio recorded from the target speaker, this system can be used to enhance current, top of the line, speech to speech translation system like Google Translate by generating the output speech that is in another language with the original speaker’s voice. This makes the generated speech more natural and realistic sounding for the intended listener of the translated speech in a real world setting. [^9] An example of a fun implementation of such a system is the option to choose celebrity’s voices, like John Legend’s voice, as the voice of your Google Assistant in your smart phone or your Google Home. [^10] But a different and potentially dangerous implication of a system being misused and abused is not hard to imagine as well, especially that sometimes the artificially synthesized speech by these latest TTS systems are rated as indistinguishable from real human speech. [^8] According to a study, our brain does not register significant differences between a morphed voice and a real voice. [^11] In other words, while we can still somewhat distinguish between a genuine and artificial voice, we probably will be fooled most of the time if we’re not particularly paying attention and on the look out for it. For example, people can be fooled into believing or doing certain things, because the voice that they talked too belongs to someone who that trust or someone who they believe holds a certain type of authority. While there are people coming up with technical solutions to safeguard us, the first step is to raise awareness about the existence of this technology and how sophisticated it can be. [^10]
 
-<p>Demonstration of voice cloning from "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis" Link: https://google.github.io/tacotron/publications/speaker_adaptation/ </p>
+Demonstration of voice cloning from "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis" [Link](https://google.github.io/tacotron/publications/speaker_adaptation/)
 
 ## 5. Example B: “Neural Text to Speech” TTS by Neural Network: Mixture Density Network
 
