@@ -88,33 +88,33 @@ Demonstration of voice cloning from "Transfer Learning from Speaker Verification
 
 ## 8. References
 
-[^1]: J. Ohala, “Christian Gottlieb Kratzenstein: Pioneer in Speech Synthesis”, ICPhS. (2011) Link: <https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2011/OnlineProceedings/SpecialSession/Session7/Ohala/Ohala.pdf>
+[^1]: J. Ohala, “Christian Gottlieb Kratzenstein: Pioneer in Speech Synthesis”, ICPhS. (2011) <https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2011/OnlineProceedings/SpecialSession/Session7/Ohala/Ohala.pdf>
 
-[^2]: J. Mullennix and S. Stern, "Synthesized Speech Technologies: Tools for Aiding Impairment", University of Pittsburh at Johnsonstown (2010) Link: <https://books.google.com/books?id=ZISTvI4vVPsC&pg=PA11&lpg=PA11&dq=bell+labs+Carol+Lockbaum&hl=en#v=onepage&q=bell%20labs%20Carol%20Lockbaum&f=false>
+[^2]: J. Mullennix and S. Stern, "Synthesized Speech Technologies: Tools for Aiding Impairment", University of Pittsburh at Johnsonstown (2010)  <https://books.google.com/books?id=ZISTvI4vVPsC&pg=PA11&lpg=PA11&dq=bell+labs+Carol+Lockbaum&hl=en#v=onepage&q=bell%20labs%20Carol%20Lockbaum&f=false>
 
-[^3]: A. Hunt and A. W. Black, "Unit Selection in a Concatenative Speech Synthesis System Using a Large Speech Database", ATR Interpreting Telecommunications Research Labs. (1996) Link: <https://www.ee.columbia.edu/~dpwe/e6820/papers/HuntB96-speechsynth.pdf>
+[^3]: A. Hunt and A. W. Black, "Unit Selection in a Concatenative Speech Synthesis System Using a Large Speech Database", ATR Interpreting Telecommunications Research Labs. (1996) <https://www.ee.columbia.edu/~dpwe/e6820/papers/HuntB96-speechsynth.pdf>
 
-[^4]: A. W. Black, H. Zen and K. Tokuda, "Statistical Parametric Speech Synthesis", Language Technologies Institute, Carnegie Mellon University (2009) Link: <https://doi.org/10.1016/j.specom.2009.04.004>
+[^4]: A. W. Black, H. Zen and K. Tokuda, "Statistical Parametric Speech Synthesis", Language Technologies Institute, Carnegie Mellon University (2009)  <https://doi.org/10.1016/j.specom.2009.04.004>
 
-[^5]: Van Santen, Jan P. H, “Progress in Speech Synthesis”, New York: Springer, (1997) Link: <https://archive.org/details/progressinspeech0000unse>
+[^5]: Van Santen, Jan P. H, “Progress in Speech Synthesis”, New York: Springer, (1997) <https://archive.org/details/progressinspeech0000unse>
 
-[^6]: Wang, Yuxuan, et al. “Tacotron: Towards End-to-End Speech Synthesis”, Google Inc, (2017) Link: <https://arxiv.org/pdf/1703.10135.pdf>
+[^6]: Wang, Yuxuan, et al. “Tacotron: Towards End-to-End Speech Synthesis”, Google Inc, (2017) <https://arxiv.org/pdf/1703.10135.pdf>
 
-[^7]: Shen, Jonathan, et al. “Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions.”, Google Inc, (2018) Link: <arxiv.org/abs/1712.05884.pdf>
+[^7]: Shen, Jonathan, et al. “Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions.”, Google Inc, (2018) <arxiv.org/abs/1712.05884.pdf>
 
-[^8]: Oord, Aaron van den, et al. “WaveNet: a Generative Model for Raw Audio”, Deepmind (2016) Link: <https://arxiv.org/pdf/1609.03499.pdf>
+[^8]: Oord, Aaron van den, et al. “WaveNet: a Generative Model for Raw Audio”, Deepmind (2016) <https://arxiv.org/pdf/1609.03499.pdf>
 
-[^9]: Jia, Ye et al. “Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis”, Google Inc., (2019) Link: <https://arxiv.org/abs/1806.04558> 
+[^9]: Jia, Ye et al. “Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis”, Google Inc., (2019)  <https://arxiv.org/abs/1806.04558> 
 
-[^10]: Marr, Bernard, "Artificial Intelligence Can Now Copy Your Voice: What Does That Mean For Humans?", Forbes, (2019) Link: <https://www.forbes.com/sites/bernardmarr/2019/05/06/artificial-intelligence-can-now-copy-your-voice-what-does-that-mean-for-humans/>
+[^10]: Marr, Bernard, "Artificial Intelligence Can Now Copy Your Voice: What Does That Mean For Humans?", Forbes, (2019)  <https://www.forbes.com/sites/bernardmarr/2019/05/06/artificial-intelligence-can-now-copy-your-voice-what-does-that-mean-for-humans/>
 
-[^11]: Neupane, Ajaya, et al. "The Crux of Voice (In)Security: A Brain Study of Speaker Legitimacy Detection", NDSS Symposium, (2019) Link: <https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_08-3_Neupane_paper.pdf>
+[^11]: Neupane, Ajaya, et al. "The Crux of Voice (In)Security: A Brain Study of Speaker Legitimacy Detection", NDSS Symposium, (2019) <https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_08-3_Neupane_paper.pdf>
 
-[^Figure1]: Andy0101, "Overview of a Typical TTS System", Wikipedia.com Link: <https://en.wikipedia.org/wiki/Speech_synthesis#/media/File:TTS_System.svg>
+[^Figure1]: Andy0101, "Overview of a Typical TTS System", Wikipedia <https://en.wikipedia.org/wiki/Speech_synthesis#/media/File:TTS_System.svg>
 
-[^Figure2]: "Course: Prosody", Arc Center of Excellence for The Dynamics of Language, Link: <http://www.dynamicsoflanguage.edu.au/storage/cache/news-prosody-w1160-q15-centre-of-excellence-for-the-dynamics-of-language-26b68.jpeg>
+[^Figure2]: "Course: Prosody", Arc Center of Excellence for The Dynamics of Language <http://www.dynamicsoflanguage.edu.au/storage/cache/news-prosody-w1160-q15-centre-of-excellence-for-the-dynamics-of-language-26b68.jpeg>
 
-[^Figure3]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) Link: <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
+[^Figure3]: Oord, Aaron van den and Dieleman, Sander, "WaveNet: A generative model for raw audio", Blogpost: Deepmind (2016) <https://deepmind.com/blog/article/wavenet-generative-model-raw-audio>
 
 
 
