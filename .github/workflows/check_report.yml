@@ -1,4 +1,4 @@
-#mainname: Check Report
+name: Check Report
 
 on: [push]
 
