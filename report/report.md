@@ -1,10 +1,20 @@
-# Review of Text-to-Voice Synthesis Technologies
+---
+date: 2021-03-15
+title: Review of Text-to-Voice Synthesis Technologies
+linkTitle: Text-to-Voice
+tags: ["report", "ai", ""]
+description: Review of Text-to-Voice Synthesis Technologies.
+author: Eugene Wang
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-350/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-350/actions)
 Status: final
 
-Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/main/project/project.md)
+Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/main/report/report.md)
 
 
 {{% pageinfo %}}
