@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Review of Text-to-Voice Synthesis Technologies
 linkTitle: Text-to-Voice
 tags: ["report", "ai", ""]
-description: Review of Text-to-Voice Synthesis Technologies.
+description: "The paper is about the most popular and most successful voice synthesis methods in the recent 5 years. Area of examples that would be explored in order to produce such a review paper would consist of both academic research papers and examples real world successful applications. For each specific example examined, its dataset, theory/model, training algorithms, and the purpose and use for that specific method/technology would be examined and reviewed. Overall, the paper will compare the similarities and differences between these methods and explore how big data enabled these new voice-synthesis technologies. And last, the changes these technologies will bring to our world in the future is discussed and both positive and negatives implications are explored in depth. This paper is meant to be informative to the both general audience and professionals about the how voice-synthesizing techniques has been transformed by big data, most important developments in the academic research of this field, and how these technologies are adopted to create innovation and value. But also to explain the logic and other technicalities behind these algorithms created by academia and applied to real world purposes. Codes and datasets of voices will be supplemented as for the purpose of demonstrations of these technologies in working."
 author: Eugene Wang
 resources:
 - src: "**.{png,jpg}"
