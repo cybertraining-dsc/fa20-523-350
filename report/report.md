@@ -16,7 +16,6 @@ Status: final
 
 Eugene Wang, [fa20-523-350](https://github.com/cybertraining-dsc/fa20-523-350/), [Edit](https://github.com/cybertraining-dsc/fa20-523-350/blob/main/report/report.md)
 
-
 {{% pageinfo %}}
 
 ## Abstract
